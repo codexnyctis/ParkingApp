@@ -1,7 +1,3 @@
-Thanks! Here's your updated `README.md` with the correct run command:
-
----
-
 # 🚗 Car Parking Management System
 
 A Java-based GUI application for managing a car parking lot. This system simulates vehicle entry and exit using a simple graphical interface.
