@@ -50,7 +50,7 @@ A Java-based GUI application for managing a car parking lot. This system simulat
 
 ## 🧪 Example Usage
 
-* Click a parking spot to assign a car
-* Enter car brand and license plate
-* Click an occupied spot to remove the car
-* Visual feedback shows available and taken spots
+* Click a parking spot to assign a car.
+* Enter car brand and license plate.
+* Click an occupied spot to remove the car.
+* Visual feedback shows available and taken spots.
